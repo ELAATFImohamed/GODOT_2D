@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+res://Enemie_fly.tscn
+res://main.tscn
+res://enimies.tscn
+res://Trofet.tscn
+res://mouch_scene.tscn
+res://game.tscn
+res://Lost_scene.tscn
+res://Home.tscn
+=======
+res://scenes/main_character.tscn
+res://Global.gd
+res://main.gd
+res://scenes/main_character.gd
+res://Home.tscn
+res://game.tscn
+res://Lost_scene.tscn
+res://main.tscn
+res://2d_scen/winner_scene.tscn
+res://mouch_scene.tscn
+res://2d_scen/winner_scene.gd
+res://Trofet.tscn
+res://Home.gd
+>>>>>>> 82c0b21565e32de8858f1c0de85aa6e1766d1d8e

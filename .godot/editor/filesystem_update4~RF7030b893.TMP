@@ -1,0 +1,12 @@
+res://main.tscn
+res://Enemie_fly.tscn
+res://enimies.tscn
+res://Trofet.tscn
+res://mouch_scene.tscn
+res://game.tscn
+res://Home.tscn
+res://Lost_scene.tscn
+res://main.gd
+res://2d_scen/winner_scene.gd
+res://sounds/SoundPlayer.gd
+res://sounds/sound_player.gd
